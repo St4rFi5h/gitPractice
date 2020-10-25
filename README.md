@@ -81,4 +81,4 @@ public static void main(STring[] args){
 https://github.com/facebook/react 깃의 예시
 
 - React (자바스크립트의 일종)를 이용해,만들어진 '페이스북'의 레포지터리
-  이 외에도 많은 프로그램들을 깃허브를 통해 확인 가능하다.
+- 이 외에도 많은 프로그램들을 깃허브를 통해 확인 가능하다.
