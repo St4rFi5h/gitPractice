@@ -7,7 +7,7 @@ Finally Studying about git
 ## 마크다운 편집시 미리보기를 하게 되면 어떻게 써질지 볼 수 있다.
 
 ````
-박스 생성 가 (```으로 위 아래를 감싼다.)
+박스 생성 방법 (```으로 위 아래를 감싼다.)
 ````
 
 ````sql //이렇게 박스 옆에 쓰고싶은 랭귀지 쓰면 박스 안에서 systax 가능
@@ -18,10 +18,12 @@ SELECT * FROM emp;
 ````
 
 ```C
-c언어의 경우.
+c언어의 경우
 
-void main(){
-    String a;
+import <stdio.h>
+void main()
+{
+    printf("안녕하세요 !");
 }
 ```
 
@@ -38,7 +40,7 @@ public static void main(STring[] args){
 }
 ```
 
-## 마크다운 언어 공부는 다음부터 제대로!
+## 마크다운 언어 공부는 이후에 제대로!
 
 ---
 
@@ -48,6 +50,8 @@ public static void main(STring[] args){
 
 깃(git) : 버전 관리 시스템, 무료.
 깃허브(github) : 인터넷에 깃을 업로드 하는 것
+- 깃허브 외에도, gitlab(깃랩),bitbucket(빗 버킷) 등
+비슷한 역할을 하는 사이트들은 많다.
 
 우리는 깃을 배우는 것이지 깃 허브를 배우는 것이 아니다.
 ```
@@ -72,11 +76,7 @@ public static void main(STring[] args){
     꼭 능숙하게 사용할 줄 알아야한다.
 ```
 
-```
-깃의 예시
+https://github.com/facebook/react 깃의 예시
 
-https://github.com/facebook/react
--   React (자바스크립트의 일종)를 이용해,
-    만들어진 '페이스북'의 레포지터리
-이 외에도 많은 프로그램들을 깃허브를 통해 확인 가능하다.
-```
+- React (자바스크립트의 일종)를 이용해,만들어진 '페이스북'의 레포지터리
+  이 외에도 많은 프로그램들을 깃허브를 통해 확인 가능하다.
