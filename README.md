@@ -1,4 +1,4 @@
-# gitPractice
+# Git Practice
 
 Finally Studying about git
 
