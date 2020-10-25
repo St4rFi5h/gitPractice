@@ -2,7 +2,7 @@
 
 [2. 깃 레포지터리?](2.git_repository.md)
 
-[2. add? commit? push?](2.git_ACP.md)
+[3. add? commit? push?](3.git_ACP.md)
 
 ## What I am doing in this Repo?
 
