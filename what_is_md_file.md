@@ -35,8 +35,9 @@ public static void main(STring[] args){
     System.out.println(i);
     }
 }
+
 ```
 
-## 마크다운 언어 공부는 이후에 제대로!
+## 마크다운 언어 공부는 이후에 제대로 정리!
 
 ---
